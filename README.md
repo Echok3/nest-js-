@@ -21,7 +21,7 @@
    nest g controller blog
    ```
 
-   ![2024-04-15 20.48.52](/Users/kelvin.a/Desktop/学习/nest.js后端开发/imgs/2024-04-15 20.48.52.png)
+   ![2024-04-15 20.48.52](./imgs/2024-04-15 20.48.52.png)
 
    * 创建和更新了几个文件。
 
