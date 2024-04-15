@@ -21,7 +21,7 @@
    nest g controller blog
    ```
 
-   ![2024-04-15 20.48.52](./imgs/2024-04-15 20.48.52.png)
+   ![image](https://github.com/Echok3/nest-js-basic/blob/main/imgs/2024-04-15%2020.48.52.png)
 
    * 创建和更新了几个文件。
 
